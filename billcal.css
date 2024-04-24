@@ -5,10 +5,11 @@
   
   body {
     background: #8990ec;
+    height: 100vh;
   }
   
   .wrapper {
-    height: 100vh;
+    height: 560px;
     width: 360px;
     color: white;
     background: #272639;
